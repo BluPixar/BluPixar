@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, Devika this side 👋
 
-<!--
-**BluPixar/BluPixar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science student passionate about building intelligent applications with AI and Machine Learning.
 
-Here are some ideas to get you started:
+Welcome to the world of Nyx's Creative work place! I'm a perfectionist at heart, always striving to polish my code and documentation before a final release—but you can track my completed and in-progress work below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My pinned repositories (GOKEY, Amazon-ML-Challenge) are a selection of my completed public projects. Other key projects are kept in private repositories during active development.
+
+    🌱 Currently Building (Private):
+
+        SEYA: An audio-based AI safety app (currently in the prototyping phase).
+
+        Penumbra: A new horror-themed text adventure game using Streamlit and Groq.
+
+    🏆 Completed Projects (Public):
+
+        GOKEY: My completed internship project, a document-based AI QnA app.
+
+        Amazon-ML-Challenge: The model that placed me in the top 0.9% of the competition.
+
+        Summarizer-API: A high-performance REST API (built with FastAPI) to serve a Hugging Face text summarization model.
+
+I'm currently polishing the code and writing detailed documentation for all my projects before their final public release. Thanks for visiting!
