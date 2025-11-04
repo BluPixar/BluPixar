@@ -1,8 +1,8 @@
 ### Hi there, Devika this side 👋
-
+Welcome to the world of "Nyx's Creative work place" ! 
 I am a computer science student passionate about building intelligent applications with AI and Machine Learning.
 
-Welcome to the world of Nyx's Creative work place! I'm a perfectionist at heart, always striving to polish my code and documentation before a final release—but you can track my completed and in-progress work below.
+I'm a perfectionist at heart, always striving to polish my code and documentation before a final release—but you can track my completed and in-progress work below.
 
 My pinned repositories (GOKEY, Amazon-ML-Challenge) are a selection of my completed public projects. Other key projects are kept in private repositories during active development.
 
