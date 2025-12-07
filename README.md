@@ -18,6 +18,6 @@ My pinned repositories (GOKEY, Amazon-ML-Challenge) are a selection of my comple
 
         Amazon-ML-Challenge: The model that placed me in the top 0.9% of the competition.
 
-        Summarizer-API: A high-performance REST API (built with FastAPI) to serve a Hugging Face text summarization model.
+        EPOCH : Email Agent
 
 I'm currently polishing the code and writing detailed documentation for all my projects before their final public release. Thanks for visiting!
